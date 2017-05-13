@@ -1,3 +1,4 @@
+
 <img src="MGP.png" width="400">
 
 ## Maturity
@@ -11,8 +12,9 @@ Mongo++ Cli (mgp) is in French for this version.
 ## Usage
 
 ### install mgp
+download or clone the project
 
-npm install -g mgp
+>> npm install -g
 
 ### run generator cli , in current folder :
 >> mgp
