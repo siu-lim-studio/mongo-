@@ -10,19 +10,19 @@ Mongo++ Cli (mgp) is in French for this version.
 
 ## Usage
 
-# install mgp
+### install mgp
 
 npm install -g mgp
 
-# run generator cli , in current folder :
+### run generator cli , in current folder :
 >> mgp
 
-# run unit tests , in generated project folder :
+### run unit tests , in generated project folder :
 >> npm test
 
 mongo++ use mocha , chai and sinon . it generate a folder '/mochawesome-report' with the Tests.
 
-# generate docs , in generated project folder :
+### generate docs , in generated project folder :
 >> npm run docs
 
 mongo++ use jsdoc and a folder '/out' is created for helpers.
