@@ -1,0 +1,46 @@
+{
+    "configBd" :   {
+	     "root":".",
+	     "pathToTemplate":"./templates/RestApi/bd",
+	     "inputTemplateFile":"",
+	     "outputTemplateFile":"",
+	     "outputFile":"./templates/RestApi/bd/out",
+	     "templateExtension":""
+	    },
+    
+    "controllers" :   {
+	     "root":".",
+	     "pathToTemplate":"./templates/RestApi/controllers",
+	     "inputTemplateFile":"",
+	     "outputTemplateFile":"",
+	     "outputFile":"./templates/RestApi/controllers/out",
+	     "templateExtension":""
+	    },
+
+    "models" :   {
+	     "root":".",
+	     "pathToTemplate":"./templates/RestApi/models",
+	     "inputTemplateFile":"",
+	     "outputTemplateFile":"",
+	     "outputFile":"./templates/RestApi/models/out",
+	     "templateExtension":""
+	    },
+
+	"routerIndex" :   {
+	     "root":".",
+	     "pathToTemplate":"./templates/RestApi/router/index",
+	     "inputTemplateFile":"",
+	     "outputTemplateFile":"",
+	     "outputFile":"./templates/RestApi/router/index/out",
+	     "templateExtension":""
+	    },
+   
+	"routerRoutes" :   {
+	     "root":".",
+	     "pathToTemplate":"./templates/RestApi/router/routes",
+	     "inputTemplateFile":"",
+	     "outputTemplateFile":"",
+	     "outputFile":"./templates/RestApi/router/routes/out",
+	     "templateExtension":""
+	    }
+}
